@@ -36,8 +36,8 @@ function App() {
                 item={item}
                 key={item.id}
                 index={index}
-                onHandlePinned={handlePinned}
-                onHandleSelectNote={handleSelectNote}
+                //onHandlePinned={handlePinned}
+                //onHandleSelectNote={handleSelectNote}
               />
             );
           })}
